@@ -1,5 +1,7 @@
 # 호우 안전 경로 · 광주
 
+**2026년 [소중단] 전남·광주 AI 기반 지역사회 문제해결톤 금상 수상작** · 집중호우 회피 내비게이션 · [발표자료](docs/호우하우발표자료.pdf)
+
 비가 많이 올수록 지하차도와 침수 이력 도로를 단계적으로 피해 가는 자동차 경로를 찾아 주는 광주 지역 웹 앱입니다. 어떤 구역을 왜 피했는지, 그만큼 시간이 얼마나 더 걸리는지 지도에 함께 보여줍니다.
 
 > 전남대학교 Kirothon TOPIC 10 (의료·복지·안전) 프로젝트입니다.
@@ -180,6 +182,7 @@ cd frontend; npm run build; npm run lint; cd ..
 
 ## 문서
 
+- [발표자료](docs/호우하우발표자료.pdf)
 - [요구사항](.kiro/specs/disaster-guide/requirements.md), [설계](.kiro/specs/disaster-guide/design.md), [작업](.kiro/specs/disaster-guide/tasks.md)
 - [침수 데이터 안내](risk_zones_guide.md)
 - [스타터 안내와 서버 배포](docs/starter-r2.md), [운영자용 도구](ops/README.md)
